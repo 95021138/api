@@ -2,7 +2,7 @@
   "plugins": [
     {
       "name": "QQ音乐",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/qqyy.js"
+      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/qq.js"
     },
     {
       "name": "全民K歌",
