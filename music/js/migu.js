@@ -251,8 +251,8 @@ function migu(packages) {
   }
 
   return {
-    platform: '咪咕',
-    version: '0.0.3',
+    platform: '咪咕音乐',
+    version: '1.0.0',
     appVersion: ">0.0.1-alpha.10",
     primaryKey: ['id', 'copyrightId'],
     cacheControl: 'no-store',

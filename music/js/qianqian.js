@@ -210,7 +210,7 @@ function qianqian(packages) {
 
     return {
         platform: '千千音乐',
-        version: '0.0.0',
+        version: '1.0.0',
         srcUrl: 'https://gitee.com/maotoumao/MusicFreePlugins/raw/master/qianqian.js',
         cacheControl: 'no-cache',
         async search(query, page, type) {

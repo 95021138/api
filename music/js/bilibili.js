@@ -227,9 +227,9 @@ function bilibili(packages) {
     }
 
     return {
-        platform: "bilibili",
+        platform: "哔哩哔哩",
         appVersion: ">=0.0",
-        version: '0.0.1',
+        version: '1.0.0',
         defaultSearchType: 'album',
         cacheControl: 'no-cache',
         srcUrl: 'https://gitee.com/maotoumao/MusicFreePlugins/raw/master/bilibili.js',

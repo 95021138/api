@@ -266,8 +266,8 @@ function fiveSing(packages) {
     }
 
     return {
-        platform: '5sing',
-        version: '0.0.0',
+        platform: '原创音乐',
+        version: '1.0.0',
         srcUrl: 'https://gitee.com/maotoumao/MusicFreePlugins/raw/master/5sing.js',
         cacheControl: 'no-cache',
         async search(query, page, type) {

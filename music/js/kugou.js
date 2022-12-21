@@ -63,8 +63,8 @@ function kugou(packages) {
     }
 
     return {
-        platform: '酷狗',
-        version: '0.0.0',
+        platform: '酷狗音乐',
+        version: '1.0.0',
         srcUrl: 'https://gitee.com/maotoumao/MusicFreePlugins/raw/master/kugou.js',
         cacheControl: 'no-cache',
         primaryKey: ['id', 'album_id', 'album_audio_id'],

@@ -25,7 +25,7 @@ function qmkg(packages) {
 
     return {
         platform: '全民K歌',
-        version: '0.0.0',
+        version: '1.0.0',
         srcUrl: 'https://gitee.com/maotoumao/MusicFreePlugins/raw/master/qmkg.js',
         cacheControl: 'no-store',
         async getMediaSource(musicItem) {

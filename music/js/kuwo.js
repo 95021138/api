@@ -187,8 +187,8 @@ function kuwo(packages) {
     }
 
     return {
-        platform: '酷我',
-        version: '0.0.0',
+        platform: '酷我音乐',
+        version: '1.0.0',
         appVersion: '>0.0.1-alpha.3',
         srcUrl: 'https://gitee.com/maotoumao/MusicFreePlugins/raw/master/kuwo.js',
         cacheControl: 'no-cache',
