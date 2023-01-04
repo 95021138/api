@@ -2,39 +2,39 @@
   "plugins": [
     {
       "name": "QQ音乐",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/qq.js"
+      "url": "http://1api.atwebpages.com/music/js/qq.js"
     },
     {
       "name": "全民K歌",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/qmkg.js"
+      "url": "http://1api.atwebpages.com/music/js/qmkg.js"
     },
     {
       "name": "5sing原创",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/5sing.js"
+      "url": "http://1api.atwebpages.com/music/js/5sing.js"
     },
     {
       "name": "酷狗音乐",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/kugou.js"
+      "url": "http://1api.atwebpages.com/music/js/kugou.js"
     },
     {
       "name": "酷我音乐",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/kuwo.js"
+      "url": "http://1api.atwebpages.com/music/js/kuwo.js"
     },
     {
       "name": "咪咕音乐",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/migu.js"
+      "url": "http://1api.atwebpages.com/music/js/migu.js"
     },
     {
       "name": "网易音乐",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/netease.js"
+      "url": "http://1api.atwebpages.com/music/js/netease.js"
     },
     {
       "name": "千千音乐",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/qianqian.js"
+      "url": "http://1api.atwebpages.com/music/js/qianqian.js"
     },
     {
       "name": "哔哩哔哩",
-      "url": "https://raw.githubusercontent.com/95021138/api/main/music/js/bilibili.js"
+      "url": "http://1api.atwebpages.com/music/js/bilibili.js"
     }
   ]
 }
