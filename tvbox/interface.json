@@ -1,3 +1,6 @@
+//声明：私人自用接口，请勿盗链。非法使用者的一切行为，与本仓无关；本仓不为使用者的行为承担任何法律责任。
+//Statement: privateinterface,nostealing.Allactsofillegalusershavenothingtodowiththewarehouse;Thewarehousewillnotbearanylegalliabilityfortheuser'sbehavior.
 {
-	"spider": "https://raw.githubusercontent.com/95021138/api/main/tvbox/spider/spider20230123.jar;md5;dce4a45660b1e61b6f02113cbab13e16",
-"wallpaper":"https://raw.githubusercontent.com/95021138/api/main/tvbox/wallpaper/wallpaper01.jpg",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/95021138/api/main/tvbox/spider/spider20230123.jar;md5;dce4a45660b1e61b6f02113cbab13e16",
+    "wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/95021138/api/main/tvbox/wallpaper/wallpaper01.jpg",
+    
