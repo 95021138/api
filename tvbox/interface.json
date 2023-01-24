@@ -70,7 +70,7 @@
             "url": "Web"
         },
         {
-            "name": "全部",
+            "name": "智能①",
             "type": 1,
             "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
             "header": {
@@ -78,7 +78,7 @@
             }
         },
         {
-            "name": "客气",
+            "name": "智能②",
             "type": 1,
             "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
@@ -94,16 +94,6 @@
                     "xigua",
                     "1905"
                 ]
-            }
-        },
-        {
-            "name": "坏了",
-            "type": 1,
-            "url": "https://www.1920lgzy.top/json.php?url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
             }
         }
     ],
