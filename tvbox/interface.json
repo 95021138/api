@@ -56,15 +56,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "local2",
-            "name": "tg@TVBoxLocal",
-            "type": 3,
-            "api": "",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
         }
     ],
     "parses": [
