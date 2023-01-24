@@ -1,5 +1,3 @@
-//声明：私人自用接口，请勿盗链。非法使用者的一切行为，与本仓无关；本仓不为使用者的行为承担任何法律责任。
-//Statement: privateinterface,nostealing.Allactsofillegalusershavenothingtodowiththewarehouse;Thewarehousewillnotbearanylegalliabilityfortheuser'sbehavior.
 {
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/95021138/api/main/tvbox/spider/spider20230123.jar;md5;dce4a45660b1e61b6f02113cbab13e16",
     "wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/95021138/api/main/tvbox/wallpaper/wallpaper01.jpg",
@@ -57,16 +55,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
-		{
-      "key": "csp_Alist1",
-      "name": "🅿Alist网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/95021138/api/main/tvbox/sites/json/alist.json"
-    },
+        {
+            "key": "csp_Alist1",
+            "name": "🅿Alist网盘",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/95021138/api/main/tvbox/sites/json/alist.json"
+        }
     ],
     "parses": [
         {
@@ -88,7 +86,7 @@
             "name": "Web",
             "type": 3,
             "url": "Web"
-        }, 
+        },
         {
             "name": "线路①",
             "type": 1,
@@ -97,7 +95,7 @@
                 "User-Agent": "Mozilla/5.0"
             }
         },
-		{
+        {
             "name": "线路②",
             "type": 1,
             "url": "http://lanlan.ckflv.cn/?url=",
