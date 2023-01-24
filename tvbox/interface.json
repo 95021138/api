@@ -19,7 +19,7 @@
     "sites": [
         {
             "key": "csp_77",
-            "name": "酷云七七 ┃SP┃",
+            "name": "酷云七七 ┃❤️SP┃",
             "type": 3,
             "api": "csp_Kunyu77",
             "playerType": 2,
@@ -29,7 +29,7 @@
         },
         {
             "key": "teng",
-            "name": "腾讯视频 ┃SP┃",
+            "name": "腾讯视频 ┃❤️SP┃",
             "type": 3,
             "api": "csp_QQ",
             "playerType": 2,
@@ -39,7 +39,7 @@
         },
         {
             "key": "ai",
-            "name": "爱奇艺果 ┃SP┃",
+            "name": "爱奇艺果 ┃❤️SP┃",
             "type": 3,
             "api": "csp_IQIYI",
             "playerType": 2,
@@ -49,14 +49,24 @@
         },
         {
             "key": "MGT",
-            "name": "芒果视频 ┃SP┃",
+            "name": "芒果视频 ┃❤️SP┃",
             "type": 3,
             "api": "csp_Mgtv",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }
+        },
+		{
+      "key": "csp_Alist1",
+      "name": "🅿Alist网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/95021138/api/main/tvbox/sites/json/alist.json"
+    },
     ],
     "parses": [
         {
@@ -79,8 +89,16 @@
             "type": 3,
             "url": "Web"
         }, 
-		{
+        {
             "name": "线路①",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+		{
+            "name": "线路②",
             "type": 1,
             "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
@@ -96,14 +114,6 @@
                     "xigua",
                     "1905"
                 ]
-            }
-        },
-        {
-            "name": "线路②",
-            "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
             }
         },
         {
