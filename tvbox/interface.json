@@ -18,17 +18,18 @@
         {
             "key": "Bttoo",
             "name": "Bttoo ┃❤️SP┃",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+			"type": 3,
+			"api": "csp_Bttoo",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
         {
             "key": "Lib",
             "name": "Libvio ┃❤️SP┃",
             "type": 3,
             "api": "csp_Lib",
+			"playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -38,6 +39,7 @@
             "name": "Cokemv ┃❤️SP┃",
             "type": 3,
             "api": "csp_Cokemv",
+			"playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
