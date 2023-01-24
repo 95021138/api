@@ -19,7 +19,7 @@
     "sites": [
         {
             "key": "csp_77",
-            "name": "👒七七┃SP",
+            "name": "酷云七七 ┃SP┃",
             "type": 3,
             "api": "csp_Kunyu77",
             "playerType": 2,
@@ -29,7 +29,7 @@
         },
         {
             "key": "teng",
-            "name": "🐧腾腾┃SP",
+            "name": "腾讯视频 ┃SP┃",
             "type": 3,
             "api": "csp_QQ",
             "playerType": 2,
@@ -39,7 +39,7 @@
         },
         {
             "key": "ai",
-            "name": "🐨爱奇┃SP",
+            "name": "爱奇艺果 ┃SP┃",
             "type": 3,
             "api": "csp_IQIYI",
             "playerType": 2,
@@ -49,7 +49,7 @@
         },
         {
             "key": "MGT",
-            "name": "🍋芒果┃SP",
+            "name": "芒果视频 ┃SP┃",
             "type": 3,
             "api": "csp_Mgtv",
             "playerType": 2,
