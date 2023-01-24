@@ -81,6 +81,14 @@
         },
         {
             "name": "智能①",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "智能②",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url=",
             "ext": {
@@ -90,7 +98,7 @@
             }
         },
         {
-            "name": "智能②",
+            "name": "智能③",
             "type": 1,
             "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
@@ -106,14 +114,6 @@
                     "xigua",
                     "1905"
                 ]
-            }
-        },
-        {
-            "name": "智能③",
-            "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
             }
         },
         {
