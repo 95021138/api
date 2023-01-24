@@ -16,33 +16,6 @@
     ],
     "sites": [
         {
-            "key": "Bttoo",
-            "name": "Bttoo ┃❤️SP┃",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio ┃❤️SP┃",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Coke",
-            "name": "Cokemv ┃❤️SP┃",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_77",
             "name": "酷云七七 ┃❤️SP┃",
             "type": 3,
