@@ -117,30 +117,6 @@
             }
         },
         {
-            "name": "智能④",
-            "type": 1,
-            "url": "http://lanlan.ckflv.cn/?url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
-            }
-        },
-        {
-            "name": "智能⑤",
-            "type": 1,
-            "url": "https://jiexi.parses.repl.co/api.php?url="
-        },
-        {
             "name": "全能①",
             "type": 0,
             "url": "https://jx.aidouer.net/?url=",
@@ -175,34 +151,6 @@
         {
             "name": "全能②",
             "type": 0,
-            "url": "https://h5.freejson.xyz/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
-        {
-            "name": "全能③",
-            "type": 0,
             "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
                 "header": {
@@ -232,7 +180,7 @@
             }
         },
         {
-            "name": "全能④",
+            "name": "全能③",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url=",
             "ext": {
