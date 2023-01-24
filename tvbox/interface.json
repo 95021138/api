@@ -69,7 +69,11 @@
             "type": 3,
             "url": "Web"
         },
-				{"name":"爱酷","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=28426599&key=dglrstuEFGHOTW3467&url="},
+        {
+            "name": "爱酷",
+            "type": 1,
+            "url": "https://k.json.icu/home/api?type=ys&uid=28426599&key=dglrstuEFGHOTW3467&url="
+        },
         {
             "name": "智能①",
             "type": 1,
@@ -78,7 +82,6 @@
                 "User-Agent": "Mozilla/5.0"
             }
         },
-
         {
             "name": "智能②",
             "type": 1,
