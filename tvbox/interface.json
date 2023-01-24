@@ -60,12 +60,12 @@
     ],
     "parses": [
         {
-            "name": "Json聚合",
+            "name": "Demo",
             "type": 3,
             "url": "Demo"
         },
         {
-            "name": "Web聚合",
+            "name": "Web",
             "type": 3,
             "url": "Web"
         },
@@ -73,6 +73,14 @@
             "name": "全部",
             "type": 1,
             "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "测试",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/d70e882369fce528dd6cfe1f67e61517?url=",
             "header": {
                 "User-Agent": "Mozilla/5.0"
             }
