@@ -60,7 +60,7 @@
     ],
     "parses": [
         {
-            "name": "解析①",
+            "name": "万源基于解析",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url=",
             "ext": {
