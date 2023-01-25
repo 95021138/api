@@ -8,7 +8,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=https://gitcode.net/u011711510/api/-/raw/8794a45b15fe6c96a89c0651e1187e4834eb8e0e/lives/live20230123.json?inline=false"
+                        "proxy://do=live&type=txt&ext=https://notabug.org/amtv/mtv/src/4bc67c757416cba0e110492693106f5d397778ad/lives/live20230123.json"
                     ]
                 }
             ]
